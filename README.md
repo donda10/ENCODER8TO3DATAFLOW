@@ -1,5 +1,10 @@
 ### ENCODER 8TO3 DATAFLOW Modelling
 
+```
+Developed by: Simon Malachi S
+RegisterNumber:212224040318
+```
+
 **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
@@ -48,12 +53,7 @@ For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
-```
-Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: S. Sri Ramsharan
-RegisterNumber:212225040424
-```
 ```
 module exp5(din,a,b,c);
 input [0:7] din;
